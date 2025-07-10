@@ -8,7 +8,6 @@ A passionate software engineering student from UPES Dehradun | Specialization in
 ### 💫 About Me:
 
 - 🎓 Pursuing B.Tech in Computer Science with specialization in Artificial Intelligence & Machine Learning at UPES Dehradun (2023–2027)
-- 🏅 Jyoti Scholar – Full 4-year tuition sponsorship awarded to only 30 students nationwide
 - 🛡️ Interned at WiJungle – Worked on Java-based CLI tool for suspicious activity detection from logs
 - 🔭 Currently working on full-stack and ML projects
 - 📚 Exploring DSA with Java and solving problems on LeetCode
