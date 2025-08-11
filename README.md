@@ -71,11 +71,3 @@ I’m driven by curiosity, creativity, and a desire to build things that make li
 
 To become a well-rounded software engineer with expertise in backend, full-stack development, and AI — solving meaningful problems and continuously learning.
 
----
-
-Let me know if you'd like me to:
-- Add a **dark mode banner**
-- Deploy this live as a **GitHub Portfolio**
-- Help you create a **portfolio website (React or HTML)**
-
-Would you like me to save this as `README.md` and walk you through how to upload it?
