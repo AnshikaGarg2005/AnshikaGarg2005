@@ -5,7 +5,7 @@ A passionate software engineering student from UPES Dehradun | Specialization in
 
 ---
 
-### 💫 About Me:
+### About Me:
 
 -  Pursuing B.Tech in Computer Science with specialization in Artificial Intelligence & Machine Learning at UPES Dehradun (2023–2027)
 -  Interned at WiJungle – Worked on Java-based CLI tool for suspicious activity detection from logs
@@ -15,7 +15,7 @@ A passionate software engineering student from UPES Dehradun | Specialization in
 
 ---
 
-### 🛠️ Tech Stack:
+### Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
