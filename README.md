@@ -7,11 +7,11 @@ A passionate software engineering student from UPES Dehradun | Specialization in
 
 ### 💫 About Me:
 
-- 🎓 Pursuing B.Tech in Computer Science with specialization in Artificial Intelligence & Machine Learning at UPES Dehradun (2023–2027)
-- 🛡️ Interned at WiJungle – Worked on Java-based CLI tool for suspicious activity detection from logs
-- 🔭 Currently working on full-stack and ML projects
-- 📚 Exploring DSA with Java and solving problems on LeetCode
-- 🌱 Learning: Spring Boot, MongoDB, and React
+-  Pursuing B.Tech in Computer Science with specialization in Artificial Intelligence & Machine Learning at UPES Dehradun (2023–2027)
+-  Interned at WiJungle – Worked on Java-based CLI tool for suspicious activity detection from logs
+-  Currently working on full-stack and ML projects
+-  Exploring DSA with Java and solving problems on LeetCode
+-  Learning: Spring Boot, MongoDB, and React
 
 ---
 
@@ -35,25 +35,25 @@ A passionate software engineering student from UPES Dehradun | Specialization in
 
 ### 📌 Featured Projects
 
-- 🔐 **Java Log Analyzer** – Detects suspicious activity using time-window logic and IP geolocation  
+-  **Java Log Analyzer** – Detects suspicious activity using time-window logic and IP geolocation  
   [`GitHub Repo`](https://github.com/AnshikaGarg2005/java-log-analyzer)
 
-- 📚 **Skill-Sprint** – Online education CLI platform with role-based access and provider control  
+-  **Skill-Sprint** – Online education CLI platform with role-based access and provider control  
   [`GitHub Repo`](https://github.com/AnshikaGarg2005)
 
-- 💼 **Jobify** – MERN stack job management app with authentication, job tracking, and analytics dashboard  
+-  **Jobify** – MERN stack job management app with authentication, job tracking, and analytics dashboard  
   [`Live Demo`](https://jobify-4f3l.onrender.com) | [`GitHub Repo`](https://github.com/AnshikaGarg2005)
 
 - 🧠 Upcoming: ML Projects using Python (stay tuned!)
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Anshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshikaGarg2005&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshikaGarg2005&layout=compact&theme=radical)
 
 ---
 
-### 🌐 Let's Connect!
+###  Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-tech)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anshikagarg20/)
@@ -61,13 +61,13 @@ A passionate software engineering student from UPES Dehradun | Specialization in
 
 ---
 
-### ✨ What Drives Me
+###  What Drives Me
 
 I’m driven by curiosity, creativity, and a desire to build things that make life easier. I love working on impactful projects and collaborating with people who are passionate about tech.
 
 ---
 
-### 🚀 My Aspiration
+###  My Aspiration
 
 To become a well-rounded software engineer with expertise in backend, full-stack development, and AI — solving meaningful problems and continuously learning.
 
