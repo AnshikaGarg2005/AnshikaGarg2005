@@ -41,9 +41,10 @@ A passionate software engineering student from UPES Dehradun | Specialization in
 - 📚 **Skill-Sprint** – Online education CLI platform with role-based access and provider control  
   [`GitHub Repo`](https://github.com/AnshikaGarg2005)
 
-- 🧠 Upcoming: ML Projects using Python (stay tuned!)
+- 💼 **Jobify** – MERN stack job management app with authentication, job tracking, and analytics dashboard  
+  [`Live Demo`](https://jobify-4f3l.onrender.com) | [`GitHub Repo`](https://github.com/AnshikaGarg2005)
 
----
+- 🧠 Upcoming: ML Projects using Python (stay tuned!)
 
 ### 📊 GitHub Stats
 
