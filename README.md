@@ -33,7 +33,7 @@ A passionate software engineering student from UPES Dehradun | Specialization in
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 -  **Java Log Analyzer** – Detects suspicious activity using time-window logic and IP geolocation  
   [`GitHub Repo`](https://github.com/AnshikaGarg2005/java-log-analyzer)
@@ -44,7 +44,7 @@ A passionate software engineering student from UPES Dehradun | Specialization in
 -  **Jobify** – MERN stack job management app with authentication, job tracking, and analytics dashboard  
   [`Live Demo`](https://jobify-4f3l.onrender.com) | [`GitHub Repo`](https://github.com/AnshikaGarg2005)
 
-- 🧠 Upcoming: ML Projects using Python (stay tuned!)
+-  Upcoming: ML Projects using Python (stay tuned!)
 
 ###  GitHub Stats
 
