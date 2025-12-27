@@ -36,7 +36,7 @@ A passionate software engineering student from UPES Dehradun | Specialization in
 ### Featured Projects
 
 -  **Human Activity Recognition (HAR)** – Deep learning project that classifies human actions from video using CNN + LSTM hybrid model  
-  [`GitHub Repo`](https://github.com/AnshikaGarg2005/har-project)
+  [`GitHub Repo`](https://github.com/AnshikaGarg2005/Human-Activity-Recognition)
 
 -  **Skill-Sprint** – Online education CLI platform with role-based access and provider control  
   [`GitHub Repo`](https://github.com/AnshikaGarg2005)
