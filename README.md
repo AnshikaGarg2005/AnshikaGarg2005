@@ -1,76 +1,284 @@
-<h1 align="center">Hi 👋, I'm Anshika Garg</h1>
+<!-- Profile Banner -->
 <p align="center">
-A passionate software engineering student from UPES Dehradun | Specialization in AIML | Java | Cybersecurity | Web Dev Enthusiast 🌐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Harshit%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Machine%20Learning%20|%20LLMs%20|%20RAG%20|%20Agentic%20AI&descAlignY=58" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Anshika Garg </h1>
+
+<h3 align="center">
+AI Engineer • Machine Learning • LLMs • RAG • Agentic AI • Computer Vision
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Enthusiast;Building+LLMs+and+RAG+Applications;Computer+Vision+Researcher;Always+Learning+🚀"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### About Me:
+# 👨‍💻 About Me
 
--  Pursuing B.Tech in Computer Science with specialization in Artificial Intelligence & Machine Learning at UPES Dehradun (2023–2027)
--  Interned at WiJungle – Worked on Java-based CLI tool for suspicious activity detection from logs
--  Currently working on full-stack and ML projects
--  Exploring DSA with Java and solving problems on LeetCode
--  Learning: Spring Boot, MongoDB, and React
+🎓 Final Year B.Tech Computer Science (AI & ML) at **UPES Dehradun**
 
----
+🤖 Passionate about
 
-### Tech Stack:
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Computer Vision
+- Deep Learning
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+💼 Former **LLM Post-Training Intern @ Ethara AI**
 
----
+💻 Former **Software Engineering Intern @ WiJungle**
 
-### Featured Projects
+🔬 Researcher in Medical Image Analysis
 
--  **Human Activity Recognition (HAR)** – Deep learning project that classifies human actions from video using CNN + LSTM hybrid model  
-  [`GitHub Repo`](https://github.com/AnshikaGarg2005/Human-Activity-Recognition)
+🌱 Currently Learning
 
--  **Skill-Sprint** – Online education CLI platform with role-based access and provider control  
-  [`GitHub Repo`](https://github.com/AnshikaGarg2005)
+- LangGraph
+- Multi-Agent Systems
+- MCP
+- AI Engineering
+- Advanced RAG
 
--  **Jobify** – MERN stack job management app with authentication, job tracking, and analytics dashboard  
-  [`Live Demo`](https://jobify-4f3l.onrender.com) | [`GitHub Repo`](https://github.com/AnshikaGarg2005)
+⚡ Fun Fact
 
--  **Java Log Analyzer** – Detects suspicious activity using time-window logic and IP geolocation  
-  [`GitHub Repo`](https://github.com/AnshikaGarg2005/java-log-analyzer)
-
--  Upcoming: ML Projects using Python (stay tuned!)
-
-###  GitHub Stats
-
-![Anshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshikaGarg2005&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshikaGarg2005&layout=compact&theme=radical)
+> I enjoy transforming research ideas into deployable AI applications.
 
 ---
 
-###  Let's Connect!
+# 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-tech)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anshikagarg20/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AnshikaGarg2005)
+### Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+
+</p>
+
+### AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+</p>
+
+**AI Technologies**
+
+```
+LangChain
+LangGraph
+Transformers
+Hugging Face
+Llama 3
+RAG
+Prompt Engineering
+AstraDB
+Groq API
+TensorFlow
+PyTorch
+OpenCV
+Scikit-learn
+```
+
+### Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,streamlit"/>
+
+</p>
 
 ---
 
-###  What Drives Me
+# 🚀 Featured Projects
 
-I’m driven by curiosity, creativity, and a desire to build things that make life easier. I love working on impactful projects and collaborating with people who are passionate about tech.
+## 📄 DocuChat — Conversational RAG System
+
+> Chat with PDFs using LangChain + Llama3 + AstraDB
+
+✅ Persistent Vector Database
+
+✅ Conversational Memory
+
+✅ Semantic Search
+
+✅ Streamlit UI
+
+**Tech Stack**
+
+Python • LangChain • AstraDB • Llama3 • Streamlit
 
 ---
 
-###  My Aspiration
+## 📰 News Flare — Autonomous AI News Agent
 
-To become a well-rounded software engineer with expertise in backend, full-stack development, and AI — solving meaningful problems and continuously learning.
+AI-powered multi-agent system that autonomously
 
+- Searches latest AI news
+- Removes duplicates
+- Summarizes articles
+- Categorizes news
+
+**Tech Stack**
+
+Python • LangGraph • Tavily • Streamlit
+
+---
+
+## 🧠 L-TumorNet
+
+Attention-Based CNN for Brain Tumor Classification
+
+✔ Lightweight CNN
+
+✔ Grad-CAM Explainability
+
+✔ Medical Imaging
+
+✔ TensorFlow
+
+---
+
+## 🌾 AI Crop Recommendation
+
+Machine Learning based crop recommendation system using soil and climate parameters.
+
+---
+
+# 💼 Experience
+
+## Ethara AI
+
+**LLM Post-Training Intern**
+
+- RLHF
+- SFT
+- Prompt Engineering
+- LLM Evaluation
+- Alignment
+
+---
+
+## WiJungle
+
+**Software Engineering Intern**
+
+Worked on
+
+- Python
+- Data Processing
+- Security Logs
+- Machine Learning Pipelines
+
+---
+
+# 📚 Research
+
+📝 First Author
+
+**Medical Image Analysis for Automated Diagnosis and Segmentation**
+
+Submitted to IEEE Conference.
+
+---
+
+# 🏆 Achievements
+
+🏅 Jyoti Scholarship
+
+🏅 McKinsey Forward Learner
+
+🏅 Cisco BOOST 6.0
+
+🏅 IEEE Technical Head
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Building AI systems that solve real-world problems through Machine Learning, LLMs, and Agentic AI."*
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
