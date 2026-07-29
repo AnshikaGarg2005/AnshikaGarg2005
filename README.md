@@ -1,103 +1,121 @@
-<h1 align="center">Hi! I'm Anshika Garg</h1>
+<h1 align="center">Hi 👋, I'm Anshika Garg</h1>
 
----
-
-# Few Facts About Me
- I like to explore new technologies.
- 
- I enjoy building software and AI solutions that solve real-world problems.
-
- I'm currently a final-year Computer Science major.
-
- I am on track to learn more about machine learning and building intelligent applications
-
- In my free time, I pursue Blog Writing as hobbies/side hustles.
-
- Reach me at **contact.anshikagarg@gmail.com**
-
- Always open to collaborating on exciting projects and connecting with like-minded people.
+<h3 align="center">
+Final Year Computer Science Student | AI & ML Enthusiast 
+</h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Computer+Science+Major;Machine+Learning+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
+</p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+
+---
+
+# 👩‍💻 About Me
+
+- 🚀 Passionate about exploring new technologies and staying up to date with the latest trends.
+- 💻 I enjoy building software and AI solutions that solve real-world problems.
+- 🎓 I'm currently a final-year Computer Science major.
+- 🤖 I am on track to learn more about machine learning and building intelligent applications.
+- ✍️ In my free time, I pursue Blog Writing as hobbies/side hustles.
+- 📫 Reach me at **contact.anshikagarg@gmail.com**
+- 🤝 Always open to collaborating on exciting projects and connecting with like-minded people.
+
+📫 Reach me at **contact.anshikagarg@gmail.com**
+
+---
+<p align="center">
+
+<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="500"/>
 
 </p>
+<p align="center">
+<i>"Code. Learn. Build. Repeat. 🚀"</i>
+</p>
+
+
+# 🌐 Tech Stack
 
 <p align="center">
-<i>"Always learning. Always building. Always improving."</i>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,tensorflow,pytorch,mysql,sqlite,git,github,linux,vscode&perline=7" />
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Featured Projects
 
-<p>
+## 📰 News Flare
 
-<img src="https://camo.githubusercontent.com/514ca9da884d244f2b54b5ab55db1cf3771b25a5978ac60f4a07e3fcf69421ed/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a716d75707554565a5961515835733039342f67697068792e676966"/>
+### Autonomous AI News Aggregation Agent
 
-</p>
+✔ Multi-Agent Architecture using LangGraph
 
+✔ AI-powered summarization & categorization
 
----
+✔ Real-time news retrieval using Tavily Search
 
-#  Featured Projects
-
-##  News Flare
-
-Autonomous AI News Aggregation Agent
-
-• Multi-agent workflow using LangGraph
-
-• AI-powered summarization and categorization
-
-• Real-time news retrieval using Tavily Search
-
-• Interactive Streamlit dashboard
+✔ Interactive Streamlit Dashboard
 
 **Tech Stack**
 
-Python • LangGraph • LangChain • Streamlit
+`Python` `LangGraph` `LangChain` `Tavily` `Streamlit`
 
 ---
 
-##  DocuChat
+## 📄 DocuChat
 
-Conversational RAG System with Persistent Vector Search
+### Conversational RAG System with Persistent Vector Search
 
-• Retrieval-Augmented Generation pipeline
+✔ Retrieval-Augmented Generation pipeline
 
-• Conversational memory
+✔ Persistent AstraDB Vector Database
 
-• Persistent AstraDB vector database
+✔ Semantic document search
 
-• Semantic document search
+✔ Conversational Memory
+
+✔ Context-aware AI responses
 
 **Tech Stack**
 
-Python • LangChain • AstraDB • Llama 3 • Streamlit
+`Python` `LangChain` `AstraDB` `Llama 3` `Streamlit`
 
 ---
 
-##  L-TumorNet
+## 🧠 L-TumorNet
 
-Attention-Based CNN for Brain Tumor Classification
+### Lightweight Attention-Based CNN for Brain Tumor Classification
 
-• Lightweight CNN architecture
+✔ Lightweight CNN Architecture
 
-• Grad-CAM explainability
+✔ Attention Mechanism
 
-• Optimized for resource-constrained devices
+✔ Grad-CAM Explainability
+
+✔ Optimized for Resource-Constrained Devices
 
 **Tech Stack**
 
-TensorFlow • Keras • OpenCV
+`TensorFlow` `Keras` `OpenCV`
 
 ---
 
 
-# 🤝 Connect with Me
 
-<p>
+# 🌱 Currently Learning
+
+- Retrieval-Augmented Generation (RAG)
+- LangChain & LangGraph
+- Large Language Models (LLMs)
+- Agentic AI Systems
+
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://linkedin.com/in/anshika-tech">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -115,8 +133,4 @@ TensorFlow • Keras • OpenCV
 
 ---
 
-<p align="center">
 
-<b>Thanks for visiting my profile!</b>
-
-</p>
