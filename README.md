@@ -1,35 +1,28 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Harshit%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Machine%20Learning%20|%20LLMs%20|%20RAG%20|%20Agentic%20AI&descAlignY=58" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Anshika Garg </h1>
-
-<h3 align="center">
-AI Engineer • Machine Learning • LLMs • RAG • Agentic AI • Computer Vision
-</h3>
+<h1 align="center">Hi! 👋 I'm Harshit Verma</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Enthusiast;Building+LLMs+and+RAG+Applications;Computer+Vision+Researcher;Always+Learning+🚀"/>
+<b>AI Engineer • Machine Learning • LLMs • RAG • Agentic AI • Computer Vision</b>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Enthusiast;Building+LLM+Applications;RAG+Developer;Agentic+AI+Explorer;Computer+Vision+Researcher" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👨🏻‍💻 Few Facts About Me
 
-🎓 Final Year B.Tech Computer Science (AI & ML) at **UPES Dehradun**
+💡 I enjoy building AI systems that solve real-world problems.
+
+🎓 Final Year B.Tech Computer Science (AI & ML) student at **UPES Dehradun**
 
 🤖 Passionate about
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Agentic AI
-- Computer Vision
 - Deep Learning
+- Computer Vision
 
 💼 Former **LLM Post-Training Intern @ Ethara AI**
 
@@ -37,61 +30,56 @@ AI Engineer • Machine Learning • LLMs • RAG • Agentic AI • Computer Vi
 
 🔬 Researcher in Medical Image Analysis
 
-🌱 Currently Learning
+🚀 Currently exploring
 
 - LangGraph
-- Multi-Agent Systems
+- Multi-Agent AI
 - MCP
-- AI Engineering
 - Advanced RAG
+- AI Engineering
 
-⚡ Fun Fact
+📫 Email: **YOUR_EMAIL**
 
-> I enjoy transforming research ideas into deployable AI applications.
+💬 Always open to collaborating on AI & Open Source projects.
 
 ---
 
-# 🛠️ Tech Stack
+<p align="center">
 
-### Languages
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
+
+</p>
+
+<p align="center">
+
+<i>"Turning research ideas into intelligent AI products."</i>
+
+</p>
+
+---
+
+# ⚒️ Tech Stack
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,pytorch,opencv,mysql,git,github,linux,vscode"/>
 
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / ML
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-</p>
-
-**AI Technologies**
-
-```
-LangChain
-LangGraph
-Transformers
-Hugging Face
-Llama 3
-RAG
-Prompt Engineering
-AstraDB
-Groq API
-TensorFlow
-PyTorch
-OpenCV
-Scikit-learn
-```
-
-### Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,streamlit"/>
+<img src="https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Llama3-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq_API-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AstraDB-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
 
 </p>
 
@@ -99,36 +87,29 @@ Scikit-learn
 
 # 🚀 Featured Projects
 
-## 📄 DocuChat — Conversational RAG System
+## 📄 DocuChat
 
-> Chat with PDFs using LangChain + Llama3 + AstraDB
+Conversational RAG System with Persistent Vector Search
 
-✅ Persistent Vector Database
-
-✅ Conversational Memory
-
-✅ Semantic Search
-
-✅ Streamlit UI
-
-**Tech Stack**
-
-Python • LangChain • AstraDB • Llama3 • Streamlit
+- 📄 Chat with PDFs
+- 💬 Conversational Memory
+- 🔍 Semantic Search
+- ⚡ AstraDB Vector Store
+- 🤖 Llama 3
+- 🎨 Streamlit UI
 
 ---
 
-## 📰 News Flare — Autonomous AI News Agent
+## 📰 News Flare
 
-AI-powered multi-agent system that autonomously
+Autonomous AI News Aggregation Agent
 
-- Searches latest AI news
-- Removes duplicates
-- Summarizes articles
-- Categorizes news
-
-**Tech Stack**
-
-Python • LangGraph • Tavily • Streamlit
+- Multi-Agent Workflow
+- LangGraph
+- Tavily Search
+- AI Summarization
+- Real-Time News
+- Streamlit Dashboard
 
 ---
 
@@ -136,46 +117,49 @@ Python • LangGraph • Tavily • Streamlit
 
 Attention-Based CNN for Brain Tumor Classification
 
-✔ Lightweight CNN
-
-✔ Grad-CAM Explainability
-
-✔ Medical Imaging
-
-✔ TensorFlow
+- Lightweight CNN
+- Grad-CAM Explainability
+- TensorFlow
+- Medical Imaging
+- Deep Learning
 
 ---
 
 ## 🌾 AI Crop Recommendation
 
-Machine Learning based crop recommendation system using soil and climate parameters.
+Machine Learning application recommending crops using soil and climate parameters.
 
 ---
 
 # 💼 Experience
 
-## Ethara AI
+## 💻 Ethara AI
 
 **LLM Post-Training Intern**
 
-- RLHF
-- SFT
-- Prompt Engineering
-- LLM Evaluation
-- Alignment
+✔ RLHF
+
+✔ Supervised Fine-Tuning
+
+✔ Prompt Engineering
+
+✔ LLM Evaluation
+
+✔ AI Alignment
 
 ---
 
-## WiJungle
+## 🔐 WiJungle
 
 **Software Engineering Intern**
 
-Worked on
+✔ Python
 
-- Python
-- Data Processing
-- Security Logs
-- Machine Learning Pipelines
+✔ Data Processing
+
+✔ Network Security
+
+✔ Machine Learning Pipelines
 
 ---
 
@@ -201,13 +185,13 @@ Submitted to IEEE Conference.
 
 ---
 
-# 📈 GitHub Analytics
+# ⚙ GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -223,57 +207,37 @@ Submitted to IEEE Conference.
 
 ---
 
-# 📊 Contribution Graph
+# 🤝 Connect with Me
 
-<p align="center">
+<p align="left">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 <a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+<p align="center">
 
-> *"Building AI systems that solve real-world problems through Machine Learning, LLMs, and Agentic AI."*
+### 💡 Quote
+
+> *"Building intelligent AI systems through Machine Learning, LLMs, and Agentic AI."*
+
+</p>
 
 ---
 
