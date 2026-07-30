@@ -63,7 +63,7 @@ Final Year Computer Science Student | AI & ML Enthusiast
 
 ---
 
-## 📄 DocuChat
+## 📄 DocuChat 🚀 Live Demo https://hv-docuchat.streamlit.app/
 
 ### Conversational RAG System with Persistent Vector Search
 
