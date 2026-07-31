@@ -45,7 +45,7 @@ Final Year Computer Science Student | AI & ML Enthusiast
 
 # 🚀 Featured Projects
 
-## 📰 News Flare
+## 📰 News Flare | 🌐 [Live Demo](https://hv-newsflare.streamlit.app/)
 
 ### Autonomous AI News Aggregation Agent
 
@@ -63,7 +63,7 @@ Final Year Computer Science Student | AI & ML Enthusiast
 
 ---
 
-## 📄 DocuChat 🚀 Live Demo https://hv-docuchat.streamlit.app/
+## 📄 DocuChat | 🌐 [Live Demo](https://hv-docuchat.streamlit.app/)
 
 ### Conversational RAG System with Persistent Vector Search
 
